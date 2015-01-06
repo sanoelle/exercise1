@@ -37,7 +37,17 @@ body{
 
 .icon-umbrella,
 .icon-wheel,
-.icon-boat{
+.icon-boat,
+.icon-shoes,
+.icon-kite{
 	color: #fff;
 	font-size: 36px;
+}
+
+.icon-umbrella:hover,
+.icon-wheel:hover,
+.icon-boat:hover,
+.icon-shoes:hover,
+.icon-kite:hover{
+	color: #957200;
 }
