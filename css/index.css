@@ -50,4 +50,6 @@ body{
 .icon-shoes:hover,
 .icon-kite:hover{
 	color: #957200;
+	transition: 0.9s;
+	transform: rotateY(180deg);
 }
