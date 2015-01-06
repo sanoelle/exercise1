@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'harbour';
-  src: url('../font/harbour.eot?45488753');
-  src: url('../font/harbour.eot?45488753#iefix') format('embedded-opentype'),
-       url('../font/harbour.woff?45488753') format('woff'),
-       url('../font/harbour.ttf?45488753') format('truetype'),
-       url('../font/harbour.svg?45488753#harbour') format('svg');
+  src: url('../fonts/harbour.eot?45488753');
+  src: url('../fonts/harbour.eot?45488753#iefix') format('embedded-opentype'),
+       url('../fonts/harbour.woff?45488753') format('woff'),
+       url('../fonts/harbour.ttf?45488753') format('truetype'),
+       url('../fonts/harbour.svg?45488753#harbour') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -50,9 +50,9 @@
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
  
-.icon-wheel:before { content: '\e800'; } /* '' */
-.icon-umbrella:before { content: '\e801'; } /* '' */
-.icon-kite:before { content: '\e802'; } /* '' */
-.icon-boat:before { content: '\e803'; } /* '' */
-.icon-shoes:before { content: '\e804'; } /* '' */
-.icon-anchor:before { content: '\e805'; } /* '' */
+.icon-wheel:before { content: '\e800'; } /* '' */
+.icon-umbrella:before { content: '\e801'; } /* '' */
+.icon-kite:before { content: '\e802'; } /* '' */
+.icon-boat:before { content: '\e803'; } /* '' */
+.icon-shoes:before { content: '\e804'; } /* '' */
+.icon-anchor:before { content: '\e805'; } /* '' */
