@@ -27,19 +27,16 @@ body{
 
 .content{
 	margin: 15rem;
-	/*border: 4px solid #fff;
-	border-radius: 5px;*/
 }
 
 .icon-content{
 	text-align: center;
-	margin-top: 2rem;
+	margin-top: 1.5rem;
 }
 
 .icon-umbrella,
 .icon-wheel,
 .icon-boat,
-.icon-shoes,
 .icon-kite{
 	color: #fff;
 	font-size: 36px;
@@ -48,7 +45,6 @@ body{
 .icon-umbrella:hover,
 .icon-wheel:hover,
 .icon-boat:hover,
-.icon-shoes:hover,
 .icon-kite:hover{
 	color: #957200;
 	transition: 0.9s;
